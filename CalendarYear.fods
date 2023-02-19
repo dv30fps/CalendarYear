@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:initial-creator>Kevin Wu</meta:initial-creator><meta:creation-date>2023-02-03T07:08:35</meta:creation-date><dc:date>2023-02-13T22:41:48.937244348</dc:date><meta:generator>LibreOffice/7.4.5.1$MacOSX_AARCH64 LibreOffice_project/9c0871452b3918c1019dde9bfac75448afc4b57f</meta:generator><meta:editing-duration>PT18H56M38S</meta:editing-duration><meta:editing-cycles>14</meta:editing-cycles><meta:document-statistic meta:table-count="2" meta:cell-count="228" meta:object-count="0"/><meta:user-defined meta:name="AppVersion">16.0300</meta:user-defined></office:meta>
+ <office:meta><meta:initial-creator>Kevin Wu</meta:initial-creator><meta:creation-date>2023-02-03T07:08:35</meta:creation-date><dc:date>2023-02-18T21:22:04.132400937</dc:date><meta:generator>LibreOffice/7.4.5.1$MacOSX_AARCH64 LibreOffice_project/9c0871452b3918c1019dde9bfac75448afc4b57f</meta:generator><meta:editing-duration>PT19H11M59S</meta:editing-duration><meta:editing-cycles>16</meta:editing-cycles><meta:document-statistic meta:table-count="2" meta:cell-count="222" meta:object-count="0"/><meta:user-defined meta:name="AppVersion">16.0300</meta:user-defined></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">529</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">508</config:config-item>
    <config:config-item config:name="VisibleAreaWidth" config:type="int">37095</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">35045</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">27937</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="Calendar">
-       <config:config-item config:name="CursorPositionX" config:type="int">8</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">23</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">0</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
-       <config:config-item config:name="ZoomValue" config:type="int">75</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">85</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
@@ -35,16 +35,16 @@
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
-       <config:config-item config:name="ZoomValue" config:type="int">75</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">85</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
      </config:config-item-map-named>
      <config:config-item config:name="ActiveTable" config:type="string">Calendar</config:config-item>
-     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1274</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1367</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
-     <config:config-item config:name="ZoomValue" config:type="int">75</config:config-item>
+     <config:config-item config:name="ZoomValue" config:type="int">85</config:config-item>
      <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
      <config:config-item config:name="ShowPageBreakPreview" config:type="boolean">false</config:config-item>
      <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
@@ -146,149 +146,166 @@
   <number:number-style style:name="N0">
    <number:number number:min-integer-digits="1"/>
   </number:number-style>
-  <number:time-style style:name="N152">
-   <number:hours/>
-   <number:text>:</number:text>
-   <number:minutes number:style="long"/>
-  </number:time-style>
-  <number:currency-style style:name="N151P0" style:volatile="true">
-   <number:currency-symbol/>
-   <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
-   <number:text> </number:text>
-  </number:currency-style>
-  <number:currency-style style:name="N151">
-   <number:text>(</number:text>
-   <number:currency-symbol/>
-   <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
-   <number:text>)</number:text>
-   <style:map style:condition="value()&gt;=0" style:apply-style-name="N151P0"/>
-  </number:currency-style>
-  <number:date-style style:name="N149">
-   <number:month/>
-   <number:text>/</number:text>
+  <number:date-style style:name="N157">
    <number:day/>
-   <number:text>/</number:text>
-   <number:year number:style="long"/>
+   <number:text>-</number:text>
+   <number:month number:textual="true"/>
+   <number:text>-</number:text>
+   <number:year/>
   </number:date-style>
-  <number:currency-style style:name="N146P0" style:volatile="true">
-   <number:currency-symbol/>
+  <number:number-style style:name="N154P0" style:volatile="true">
+   <number:text> </number:text>
    <number:fill-character> </number:fill-character>
    <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
    <number:text> </number:text>
-  </number:currency-style>
-  <number:currency-style style:name="N146P1" style:volatile="true">
-   <number:currency-symbol/>
+  </number:number-style>
+  <number:number-style style:name="N154P1" style:volatile="true">
+   <number:text> </number:text>
    <number:fill-character> </number:fill-character>
    <number:text>(</number:text>
    <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
    <number:text>)</number:text>
-  </number:currency-style>
-  <number:currency-style style:name="N146P2" style:volatile="true">
-   <number:currency-symbol/>
+  </number:number-style>
+  <number:number-style style:name="N154P2" style:volatile="true">
+   <number:text> </number:text>
    <number:fill-character> </number:fill-character>
    <number:text>- </number:text>
-  </number:currency-style>
-  <number:text-style style:name="N146">
+  </number:number-style>
+  <number:text-style style:name="N154">
    <number:text> </number:text>
    <number:text-content/>
    <number:text> </number:text>
-   <style:map style:condition="value()&gt;0" style:apply-style-name="N146P0"/>
-   <style:map style:condition="value()&lt;0" style:apply-style-name="N146P1"/>
-   <style:map style:condition="value()=0" style:apply-style-name="N146P2"/>
+   <style:map style:condition="value()&gt;0" style:apply-style-name="N154P0"/>
+   <style:map style:condition="value()&lt;0" style:apply-style-name="N154P1"/>
+   <style:map style:condition="value()=0" style:apply-style-name="N154P2"/>
   </number:text-style>
-  <number:currency-style style:name="N142P0" style:volatile="true">
-   <number:currency-symbol/>
+  <number:number-style style:name="N148P0" style:volatile="true">
+   <number:text> </number:text>
    <number:fill-character> </number:fill-character>
    <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
    <number:text> </number:text>
-  </number:currency-style>
-  <number:currency-style style:name="N142P1" style:volatile="true">
-   <number:currency-symbol/>
+  </number:number-style>
+  <number:number-style style:name="N148P1" style:volatile="true">
+   <number:text> </number:text>
    <number:fill-character> </number:fill-character>
    <number:text>(</number:text>
    <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
    <number:text>)</number:text>
-  </number:currency-style>
-  <number:currency-style style:name="N142P2" style:volatile="true">
-   <number:currency-symbol/>
+  </number:number-style>
+  <number:number-style style:name="N148P2" style:volatile="true">
+   <number:text> </number:text>
    <number:fill-character> </number:fill-character>
    <number:text>-</number:text>
    <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="0"/>
    <number:text> </number:text>
-  </number:currency-style>
-  <number:text-style style:name="N142">
+  </number:number-style>
+  <number:text-style style:name="N148">
    <number:text> </number:text>
    <number:text-content/>
    <number:text> </number:text>
-   <style:map style:condition="value()&gt;0" style:apply-style-name="N142P0"/>
-   <style:map style:condition="value()&lt;0" style:apply-style-name="N142P1"/>
-   <style:map style:condition="value()=0" style:apply-style-name="N142P2"/>
+   <style:map style:condition="value()&gt;0" style:apply-style-name="N148P0"/>
+   <style:map style:condition="value()&lt;0" style:apply-style-name="N148P1"/>
+   <style:map style:condition="value()=0" style:apply-style-name="N148P2"/>
   </number:text-style>
-  <number:date-style style:name="N138">
-   <number:month/>
-   <number:text>/</number:text>
-   <number:day/>
-   <number:text>/</number:text>
-   <number:year number:style="long"/>
-   <number:text> </number:text>
-   <number:hours/>
-   <number:text>:</number:text>
-   <number:minutes number:style="long"/>
-  </number:date-style>
-  <number:time-style style:name="N137">
+  <number:time-style style:name="N144">
    <number:hours/>
    <number:text>:</number:text>
    <number:minutes number:style="long"/>
    <number:text> </number:text>
    <number:am-pm/>
   </number:time-style>
-  <number:currency-style style:name="N159P0" style:volatile="true">
-   <number:currency-symbol/>
-   <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
-   <number:text> </number:text>
-  </number:currency-style>
-  <number:currency-style style:name="N159">
-   <style:text-properties fo:color="#ff0000"/>
-   <number:text>(</number:text>
-   <number:currency-symbol/>
-   <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
-   <number:text>)</number:text>
-   <style:map style:condition="value()&gt;=0" style:apply-style-name="N159P0"/>
-  </number:currency-style>
-  <number:time-style style:name="N136">
+  <number:time-style style:name="N143">
    <number:minutes number:style="long"/>
    <number:text>:</number:text>
    <number:seconds number:style="long" number:decimal-places="1"/>
   </number:time-style>
-  <number:number-style style:name="N158P0" style:volatile="true">
+  <number:currency-style style:name="N142P0" style:volatile="true">
+   <number:currency-symbol/>
+   <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
    <number:text> </number:text>
-   <number:fill-character> </number:fill-character>
+  </number:currency-style>
+  <number:currency-style style:name="N142">
+   <number:text>(</number:text>
+   <number:currency-symbol/>
+   <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text>)</number:text>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N142P0"/>
+  </number:currency-style>
+  <number:time-style style:name="N141">
+   <number:hours/>
+   <number:text>:</number:text>
+   <number:minutes number:style="long"/>
+   <number:text>:</number:text>
+   <number:seconds number:style="long"/>
+  </number:time-style>
+  <number:currency-style style:name="N140P0" style:volatile="true">
+   <number:currency-symbol/>
+   <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text> </number:text>
+  </number:currency-style>
+  <number:currency-style style:name="N140">
+   <number:text>(</number:text>
+   <number:currency-symbol/>
+   <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text>)</number:text>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N140P0"/>
+  </number:currency-style>
+  <number:date-style style:name="N159">
+   <number:day/>
+   <number:text>-</number:text>
+   <number:month number:textual="true"/>
+  </number:date-style>
+  <number:date-style style:name="N136">
+   <number:month/>
+   <number:text>/</number:text>
+   <number:day/>
+   <number:text>/</number:text>
+   <number:year number:style="long"/>
+   <number:text> </number:text>
+   <number:hours/>
+   <number:text>:</number:text>
+   <number:minutes number:style="long"/>
+  </number:date-style>
+  <number:number-style style:name="N158">
+   <number:scientific-number number:decimal-places="1" number:min-decimal-places="1" number:min-integer-digits="1" number:min-exponent-digits="1" number:exponent-interval="3" number:forced-exponent-sign="true"/>
+  </number:number-style>
+  <number:number-style style:name="N135P0" style:volatile="true">
    <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
    <number:text> </number:text>
   </number:number-style>
-  <number:number-style style:name="N158P1" style:volatile="true">
-   <number:text> </number:text>
-   <number:fill-character> </number:fill-character>
+  <number:number-style style:name="N135">
+   <style:text-properties fo:color="#ff0000"/>
    <number:text>(</number:text>
    <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
    <number:text>)</number:text>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N135P0"/>
   </number:number-style>
-  <number:number-style style:name="N158P2" style:volatile="true">
+  <number:currency-style style:name="N139P0" style:volatile="true">
+   <number:currency-symbol/>
+   <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
    <number:text> </number:text>
-   <number:fill-character> </number:fill-character>
+  </number:currency-style>
+  <number:currency-style style:name="N139">
+   <style:text-properties fo:color="#ff0000"/>
+   <number:text>(</number:text>
+   <number:currency-symbol/>
+   <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text>)</number:text>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N139P0"/>
+  </number:currency-style>
+  <number:date-style style:name="N128">
+   <number:month/>
+   <number:text>/</number:text>
+   <number:day/>
+   <number:text>/</number:text>
+   <number:year number:style="long"/>
+  </number:date-style>
+  <number:date-style style:name="N137">
+   <number:month number:textual="true"/>
    <number:text>-</number:text>
-   <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="0"/>
-   <number:text> </number:text>
-  </number:number-style>
-  <number:text-style style:name="N158">
-   <number:text> </number:text>
-   <number:text-content/>
-   <number:text> </number:text>
-   <style:map style:condition="value()&gt;0" style:apply-style-name="N158P0"/>
-   <style:map style:condition="value()&lt;0" style:apply-style-name="N158P1"/>
-   <style:map style:condition="value()=0" style:apply-style-name="N158P2"/>
-  </number:text-style>
-  <number:time-style style:name="N135">
+   <number:year/>
+  </number:date-style>
+  <number:time-style style:name="N149">
    <number:hours/>
    <number:text>:</number:text>
    <number:minutes number:style="long"/>
@@ -297,118 +314,101 @@
    <number:text> </number:text>
    <number:am-pm/>
   </number:time-style>
-  <number:number-style style:name="N134P0" style:volatile="true">
-   <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
-   <number:text> </number:text>
-  </number:number-style>
-  <number:number-style style:name="N134">
-   <style:text-properties fo:color="#ff0000"/>
-   <number:text>(</number:text>
-   <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
-   <number:text>)</number:text>
-   <style:map style:condition="value()&gt;=0" style:apply-style-name="N134P0"/>
-  </number:number-style>
-  <number:time-style style:name="N132" number:truncate-on-overflow="false">
-   <number:hours/>
-   <number:text>:</number:text>
-   <number:minutes number:style="long"/>
-   <number:text>:</number:text>
-   <number:seconds number:style="long"/>
-  </number:time-style>
-  <number:currency-style style:name="N154P0" style:volatile="true">
+  <number:currency-style style:name="N126P0" style:volatile="true">
    <number:currency-symbol/>
-   <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
-   <number:text> </number:text>
-  </number:currency-style>
-  <number:currency-style style:name="N154">
-   <number:text>(</number:text>
-   <number:currency-symbol/>
-   <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
-   <number:text>)</number:text>
-   <style:map style:condition="value()&gt;=0" style:apply-style-name="N154P0"/>
-  </number:currency-style>
-  <number:number-style style:name="N131P0" style:volatile="true">
-   <number:text> </number:text>
    <number:fill-character> </number:fill-character>
    <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
    <number:text> </number:text>
-  </number:number-style>
-  <number:number-style style:name="N131P1" style:volatile="true">
-   <number:text> </number:text>
+  </number:currency-style>
+  <number:currency-style style:name="N126P1" style:volatile="true">
+   <number:currency-symbol/>
    <number:fill-character> </number:fill-character>
    <number:text>(</number:text>
    <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
    <number:text>)</number:text>
-  </number:number-style>
-  <number:number-style style:name="N131P2" style:volatile="true">
-   <number:text> </number:text>
+  </number:currency-style>
+  <number:currency-style style:name="N126P2" style:volatile="true">
+   <number:currency-symbol/>
    <number:fill-character> </number:fill-character>
    <number:text>- </number:text>
-  </number:number-style>
-  <number:text-style style:name="N131">
+  </number:currency-style>
+  <number:text-style style:name="N126">
    <number:text> </number:text>
    <number:text-content/>
    <number:text> </number:text>
-   <style:map style:condition="value()&gt;0" style:apply-style-name="N131P0"/>
-   <style:map style:condition="value()&lt;0" style:apply-style-name="N131P1"/>
-   <style:map style:condition="value()=0" style:apply-style-name="N131P2"/>
+   <style:map style:condition="value()&gt;0" style:apply-style-name="N126P0"/>
+   <style:map style:condition="value()&lt;0" style:apply-style-name="N126P1"/>
+   <style:map style:condition="value()=0" style:apply-style-name="N126P2"/>
   </number:text-style>
-  <number:time-style style:name="N150">
-   <number:minutes number:style="long"/>
-   <number:text>:</number:text>
-   <number:seconds number:style="long"/>
-  </number:time-style>
-  <number:number-style style:name="N127P0" style:volatile="true">
-   <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
-   <number:text> </number:text>
-  </number:number-style>
-  <number:number-style style:name="N127">
-   <style:text-properties fo:color="#ff0000"/>
-   <number:text>(</number:text>
-   <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
-   <number:text>)</number:text>
-   <style:map style:condition="value()&gt;=0" style:apply-style-name="N127P0"/>
-  </number:number-style>
-  <number:date-style style:name="N148">
-   <number:day/>
-   <number:text>-</number:text>
-   <number:month number:textual="true"/>
-   <number:text>-</number:text>
-   <number:year/>
-  </number:date-style>
-  <number:number-style style:name="N125">
-   <number:scientific-number number:decimal-places="1" number:min-decimal-places="1" number:min-integer-digits="1" number:min-exponent-digits="1" number:exponent-interval="3" number:forced-exponent-sign="true"/>
-  </number:number-style>
-  <number:date-style style:name="N147">
-   <number:month number:textual="true"/>
-   <number:text>-</number:text>
-   <number:year/>
-  </number:date-style>
-  <number:currency-style style:name="N124P0" style:volatile="true">
+  <number:currency-style style:name="N132P0" style:volatile="true">
    <number:currency-symbol/>
+   <number:fill-character> </number:fill-character>
    <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
    <number:text> </number:text>
   </number:currency-style>
-  <number:currency-style style:name="N124">
-   <style:text-properties fo:color="#ff0000"/>
-   <number:text>(</number:text>
+  <number:currency-style style:name="N132P1" style:volatile="true">
    <number:currency-symbol/>
+   <number:fill-character> </number:fill-character>
+   <number:text>(</number:text>
    <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
    <number:text>)</number:text>
-   <style:map style:condition="value()&gt;=0" style:apply-style-name="N124P0"/>
   </number:currency-style>
-  <number:date-style style:name="N122">
-   <number:day/>
+  <number:currency-style style:name="N132P2" style:volatile="true">
+   <number:currency-symbol/>
+   <number:fill-character> </number:fill-character>
    <number:text>-</number:text>
-   <number:month number:textual="true"/>
-  </number:date-style>
-  <number:time-style style:name="N121">
+   <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="0"/>
+   <number:text> </number:text>
+  </number:currency-style>
+  <number:text-style style:name="N132">
+   <number:text> </number:text>
+   <number:text-content/>
+   <number:text> </number:text>
+   <style:map style:condition="value()&gt;0" style:apply-style-name="N132P0"/>
+   <style:map style:condition="value()&lt;0" style:apply-style-name="N132P1"/>
+   <style:map style:condition="value()=0" style:apply-style-name="N132P2"/>
+  </number:text-style>
+  <number:time-style style:name="N150" number:truncate-on-overflow="false">
    <number:hours/>
    <number:text>:</number:text>
    <number:minutes number:style="long"/>
    <number:text>:</number:text>
    <number:seconds number:style="long"/>
   </number:time-style>
+  <number:time-style style:name="N127">
+   <number:minutes number:style="long"/>
+   <number:text>:</number:text>
+   <number:seconds number:style="long"/>
+  </number:time-style>
+  <number:number-style style:name="N156P0" style:volatile="true">
+   <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text> </number:text>
+  </number:number-style>
+  <number:number-style style:name="N156">
+   <style:text-properties fo:color="#ff0000"/>
+   <number:text>(</number:text>
+   <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text>)</number:text>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N156P0"/>
+  </number:number-style>
+  <number:time-style style:name="N133">
+   <number:hours/>
+   <number:text>:</number:text>
+   <number:minutes number:style="long"/>
+  </number:time-style>
+  <number:currency-style style:name="N122P0" style:volatile="true">
+   <number:currency-symbol/>
+   <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text> </number:text>
+  </number:currency-style>
+  <number:currency-style style:name="N122">
+   <style:text-properties fo:color="#ff0000"/>
+   <number:text>(</number:text>
+   <number:currency-symbol/>
+   <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text>)</number:text>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N122P0"/>
+  </number:currency-style>
   <style:style style:name="Default" style:family="table-cell">
    <style:table-cell-properties style:rotation-align="none" style:vertical-align="bottom"/>
    <style:text-properties fo:color="#000000" style:font-name="Calibri" fo:font-family="Calibri" style:font-family-generic="swiss" fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
@@ -472,18 +472,6 @@
   </style:style>
  </office:styles>
  <office:automatic-styles>
-  <style:style style:name="co1" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.2in"/>
-  </style:style>
-  <style:style style:name="co2" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.55in"/>
-  </style:style>
-  <style:style style:name="co3" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.3in"/>
-  </style:style>
-  <style:style style:name="co4" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.9181in"/>
-  </style:style>
   <style:style style:name="co5" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="1.2472in"/>
   </style:style>
@@ -505,48 +493,78 @@
   <style:style style:name="co11" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="0.8071in"/>
   </style:style>
+  <style:style style:name="co4" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.9181in"/>
+  </style:style>
+  <style:style style:name="co13" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.2in"/>
+  </style:style>
+  <style:style style:name="co14" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.55in"/>
+  </style:style>
+  <style:style style:name="co15" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.3in"/>
+  </style:style>
+  <style:style style:name="ro6" style:family="table-row">
+   <style:table-row-properties style:row-height="0.5783in" fo:break-before="auto" style:use-optimal-row-height="false"/>
+  </style:style>
   <style:style style:name="ro1" style:family="table-row">
    <style:table-row-properties style:row-height="0.2083in" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
-  <style:style style:name="ro2" style:family="table-row">
+  <style:style style:name="ro3" style:family="table-row">
    <style:table-row-properties style:row-height="0.2709in" fo:break-before="auto" style:use-optimal-row-height="false"/>
   </style:style>
-  <style:style style:name="ro3" style:family="table-row">
+  <style:style style:name="ro4" style:family="table-row">
    <style:table-row-properties style:row-height="0.2291in" fo:break-before="auto" style:use-optimal-row-height="false"/>
   </style:style>
-  <style:style style:name="ro4" style:family="table-row">
-   <style:table-row-properties style:row-height="0.2945in" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
   <style:style style:name="ro5" style:family="table-row">
-   <style:table-row-properties style:row-height="0.2728in" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
-  <style:style style:name="ro6" style:family="table-row">
-   <style:table-row-properties style:row-height="0.8417in" fo:break-before="auto" style:use-optimal-row-height="false"/>
+   <style:table-row-properties style:row-height="6.2693in" fo:break-before="auto" style:use-optimal-row-height="false"/>
   </style:style>
   <style:style style:name="ro7" style:family="table-row">
-   <style:table-row-properties style:row-height="0.789in" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
-  <style:style style:name="ro8" style:family="table-row">
-   <style:table-row-properties style:row-height="1.1154in" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
-  <style:style style:name="ro9" style:family="table-row">
-   <style:table-row-properties style:row-height="4.6398in" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
-  <style:style style:name="ro10" style:family="table-row">
    <style:table-row-properties style:row-height="0.2189in" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
-  <style:style style:name="ro11" style:family="table-row">
-   <style:table-row-properties style:row-height="0.5783in" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
-  <style:style style:name="ta1" style:family="table" style:master-page-name="PageStyle_5f_Calendar">
+  <style:style style:name="ta2" style:family="table" style:master-page-name="PageStyle_5f_Helper">
    <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="ta2" style:family="table" style:master-page-name="PageStyle_5f_Helper">
+  <style:style style:name="ta3" style:family="table" style:master-page-name="PageStyle_5f_Calendar">
    <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
   </style:style>
   <number:number-style style:name="N1">
    <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1"/>
   </number:number-style>
+  <style:style style:name="ce43" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#deebf7" style:cell-protect="protected" style:print-content="true" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" fo:border="0.74pt solid #000000" style:direction="ltr" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="top" loext:vertical-justify="auto"/>
+   <style:paragraph-properties fo:text-align="start" css3t:text-justify="auto" fo:margin-left="0in" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Calibri" fo:font-size="12pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce45" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="0.74pt solid #000000" fo:background-color="#e2f0d9" style:cell-protect="protected" style:print-content="true" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="value-type" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border-left="0.74pt solid #000000" style:direction="ltr" fo:border-right="0.74pt solid #000000" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" fo:border-top="none" style:vertical-align="bottom" loext:vertical-justify="auto"/>
+   <style:paragraph-properties css3t:text-justify="auto" fo:margin-left="0in" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Tahoma" style:font-name-asian="Tahoma" style:font-name-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="ce46" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#e2f0d9" style:cell-protect="protected" style:print-content="true" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="value-type" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border="0.74pt solid #000000" style:direction="ltr" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="bottom" loext:vertical-justify="auto"/>
+   <style:paragraph-properties css3t:text-justify="auto" fo:margin-left="0in" style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="ce47" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#ffdbb6" style:cell-protect="protected" style:print-content="true" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border="0.74pt solid #000000" style:direction="ltr" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="bottom" loext:vertical-justify="auto"/>
+   <style:paragraph-properties fo:text-align="center" css3t:text-justify="auto" fo:margin-left="0in" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Calibri" fo:font-size="12pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce48" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#ffdbb6" style:cell-protect="protected" style:print-content="true" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" fo:border="0.74pt solid #000000" style:direction="ltr" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="bottom" loext:vertical-justify="auto"/>
+   <style:paragraph-properties fo:text-align="center" css3t:text-justify="auto" fo:margin-left="0in" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Calibri" fo:font-size="12pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce49" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N1">
+   <style:table-cell-properties fo:background-color="#ffdbb6" style:cell-protect="protected" style:print-content="true" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border="0.74pt solid #000000" style:direction="ltr" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="bottom" loext:vertical-justify="auto"/>
+   <style:paragraph-properties fo:text-align="center" css3t:text-justify="auto" fo:margin-left="0in" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Calibri" fo:font-size="12pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce50" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0in"/>
+  </style:style>
   <style:style style:name="ce1" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:vertical-align="top"/>
   </style:style>
@@ -569,15 +587,15 @@
    <style:paragraph-properties fo:text-align="center" css3t:text-justify="auto" fo:margin-left="0in" style:writing-mode="page"/>
    <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Calibri" fo:font-size="12pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="ce11" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce24" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:cell-protect="protected" style:print-content="true" style:text-align-source="value-type" style:repeat-content="false" fo:wrap-option="no-wrap" style:direction="ltr" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="bottom" loext:vertical-justify="auto"/>
    <style:paragraph-properties css3t:text-justify="auto" fo:margin-left="0in" style:writing-mode="page"/>
   </style:style>
-  <style:style style:name="ce7" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce12" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="top"/>
    <style:text-properties style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-name-asian="Tahoma1" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Tahoma1" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
-  <style:style style:name="ce24" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce17" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="top"/>
    <style:text-properties style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-name-asian="Tahoma1" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Tahoma1" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
@@ -593,7 +611,7 @@
    <style:table-cell-properties style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border="none" style:direction="ltr" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="middle" loext:vertical-justify="auto"/>
    <style:paragraph-properties fo:text-align="justify" css3t:text-justify="auto" fo:margin-left="0in" style:writing-mode="page"/>
   </style:style>
-  <style:style style:name="ce22" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce33" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="no-wrap" style:direction="ltr" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="middle" loext:vertical-justify="auto"/>
    <style:paragraph-properties fo:text-align="justify" css3t:text-justify="auto" fo:margin-left="0in" style:writing-mode="page"/>
   </style:style>
@@ -617,7 +635,7 @@
    <style:paragraph-properties fo:text-align="center" css3t:text-justify="auto" fo:margin-left="0in" style:writing-mode="page"/>
    <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Calibri" fo:font-size="12pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="ce36" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce38" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:background-color="#deebf7" style:cell-protect="protected" style:print-content="true" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" fo:border="0.74pt solid #000000" style:direction="ltr" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="top" loext:vertical-justify="auto"/>
    <style:paragraph-properties fo:text-align="start" css3t:text-justify="auto" fo:margin-left="0in" style:writing-mode="page"/>
    <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Calibri" fo:font-size="12pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
@@ -627,26 +645,26 @@
    <style:paragraph-properties css3t:text-justify="auto" fo:margin-left="0in" style:writing-mode="page"/>
    <style:text-properties style:font-name="Tahoma" style:font-name-asian="Tahoma" style:font-name-complex="Tahoma"/>
   </style:style>
-  <style:style style:name="ce19" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce40" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:background-color="#e2f0d9" style:cell-protect="protected" style:print-content="true" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="value-type" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border="0.74pt solid #000000" style:direction="ltr" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="bottom" loext:vertical-justify="auto"/>
    <style:paragraph-properties css3t:text-justify="auto" fo:margin-left="0in" style:writing-mode="page"/>
   </style:style>
-  <style:style style:name="ce40" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce41" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:background-color="#ffdbb6" style:cell-protect="protected" style:print-content="true" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border="0.74pt solid #000000" style:direction="ltr" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="bottom" loext:vertical-justify="auto"/>
    <style:paragraph-properties fo:text-align="center" css3t:text-justify="auto" fo:margin-left="0in" style:writing-mode="page"/>
    <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Calibri" fo:font-size="12pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="ce41" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce42" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:background-color="#ffdbb6" style:cell-protect="protected" style:print-content="true" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" fo:border="0.74pt solid #000000" style:direction="ltr" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="bottom" loext:vertical-justify="auto"/>
    <style:paragraph-properties fo:text-align="center" css3t:text-justify="auto" fo:margin-left="0in" style:writing-mode="page"/>
    <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Calibri" fo:font-size="12pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="ce42" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N1">
+  <style:style style:name="ce44" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N1">
    <style:table-cell-properties fo:background-color="#ffdbb6" style:cell-protect="protected" style:print-content="true" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border="0.74pt solid #000000" style:direction="ltr" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="bottom" loext:vertical-justify="auto"/>
    <style:paragraph-properties fo:text-align="center" css3t:text-justify="auto" fo:margin-left="0in" style:writing-mode="page"/>
    <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Calibri" fo:font-size="12pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="ce44" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce51" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
    <style:paragraph-properties fo:text-align="center" fo:margin-left="0in"/>
   </style:style>
@@ -659,6 +677,9 @@
     <style:header-footer-properties fo:min-height="0.2953in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0.0984in"/>
    </style:footer-style>
   </style:page-layout>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:color="#000000" style:font-name="Calibri" fo:font-size="12pt" fo:font-weight="normal" style:text-underline-style="none" style:text-underline-color="font-color" style:text-line-through-type="none" fo:font-style="normal" style:text-outline="false" fo:text-shadow="none" style:text-line-through-mode="continuous" fo:language="en" fo:country="US" style:language-asian="zh" style:country-asian="CN" style:language-complex="hi" style:country-complex="IN" style:font-name-asian="Tahoma1" style:font-name-complex="Tahoma1" style:font-size-asian="12pt" style:font-size-complex="12pt" style:font-weight-asian="normal" style:font-weight-complex="normal" style:font-style-asian="normal" style:font-style-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
  </office:automatic-styles>
  <office:master-styles>
   <style:master-page style:name="PageStyle_5f_Helper" style:display-name="PageStyle_Helper" style:page-layout-name="pm1">
@@ -693,23 +714,23 @@
      </table:error-message>
     </table:content-validation>
    </table:content-validations>
-   <table:table table:name="Calendar" table:style-name="ta1" table:protected="true">
+   <table:table table:name="Calendar" table:style-name="ta3" table:protected="true">
     <loext:table-protection loext:select-protected-cells="true" loext:select-unprotected-cells="true" loext:insert-columns="true" loext:insert-rows="true" loext:delete-columns="true" loext:delete-rows="true"/>
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co2" table:number-columns-repeated="5" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co3" table:number-columns-repeated="7" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co13" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co14" table:number-columns-repeated="5" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co15" table:number-columns-repeated="7" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co4" table:number-columns-repeated="16371" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="16384"/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
+    <table:table-row table:style-name="ro3">
      <table:table-cell/>
      <table:table-cell table:style-name="ce3" table:content-validation-name="val1"/>
      <table:table-cell table:style-name="ce26" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="3" table:number-rows-spanned="1">
       <text:p><text:s/>&lt;- Enter year to view</text:p>
      </table:table-cell>
-     <table:covered-table-cell table:number-columns-repeated="2" table:style-name="ce22"/>
+     <table:covered-table-cell table:number-columns-repeated="2" table:style-name="ce33"/>
      <table:table-cell table:style-name="ce4"/>
      <table:table-cell table:style-name="ce13" table:formula="of:=INDEX(MonthsTable;7*(ROW()-Row0)+(COLUMN()-Column0)+7-WeekDayJan1;1+IsLeapYear)" office:value-type="string" office:string-value="JAN|31" calcext:value-type="string">
       <text:p>JAN|31</text:p>
@@ -735,7 +756,7 @@
      <table:table-cell table:style-name="ce16" table:number-columns-repeated="3"/>
      <table:table-cell table:number-columns-repeated="16368"/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
+    <table:table-row table:style-name="ro3">
      <table:table-cell/>
      <table:table-cell table:style-name="ce4" table:number-columns-repeated="5"/>
      <table:table-cell table:style-name="ce13" table:formula="of:=INDEX(MonthsTable;7*(ROW()-Row0)+(COLUMN()-Column0)+7-WeekDayJan1;1+IsLeapYear)" office:value-type="string" office:string-value="•" calcext:value-type="string">
@@ -762,7 +783,7 @@
      <table:table-cell table:style-name="ce16" table:number-columns-repeated="2"/>
      <table:table-cell table:number-columns-repeated="16369"/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
+    <table:table-row table:style-name="ro3">
      <table:table-cell/>
      <table:table-cell table:style-name="ce2" table:formula="of:=YEAR(TODAY())" office:value-type="float" office:value="2023" calcext:value-type="float">
       <text:p>2023</text:p>
@@ -795,11 +816,11 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="16371"/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
+    <table:table-row table:style-name="ro3">
      <table:table-cell/>
      <table:table-cell table:style-name="ce4"/>
      <table:table-cell table:style-name="ce30"/>
-     <table:table-cell table:style-name="ce22" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce33" table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce4"/>
      <table:table-cell table:style-name="ce13" table:formula="of:=INDEX(MonthsTable;7*(ROW()-Row0)+(COLUMN()-Column0)+7-WeekDayJan1;1+IsLeapYear)" office:value-type="string" office:string-value="OCT|31" calcext:value-type="string">
       <text:p>OCT|31</text:p>
@@ -824,7 +845,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="16371"/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
+    <table:table-row table:style-name="ro3">
      <table:table-cell/>
      <table:table-cell table:style-name="ce4" table:number-columns-repeated="5"/>
      <table:table-cell table:style-name="ce13" table:formula="of:=INDEX(MonthsTable;7*(ROW()-Row0)+(COLUMN()-Column0)+7-WeekDayJan1;1+IsLeapYear)" office:value-type="string" office:string-value="•" calcext:value-type="string">
@@ -850,7 +871,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="16371"/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
+    <table:table-row table:style-name="ro3">
      <table:table-cell/>
      <table:table-cell table:style-name="ce5" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
@@ -890,7 +911,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="16371"/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
+    <table:table-row table:style-name="ro3">
      <table:table-cell/>
      <table:table-cell table:style-name="ce5" table:formula="of:=[.B7]+1" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
@@ -930,7 +951,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="16371"/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
+    <table:table-row table:style-name="ro3">
      <table:table-cell/>
      <table:table-cell table:style-name="ce5" table:formula="of:=[.B8]+1" office:value-type="float" office:value="3" calcext:value-type="float">
       <text:p>3</text:p>
@@ -970,7 +991,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="16371"/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
+    <table:table-row table:style-name="ro3">
      <table:table-cell/>
      <table:table-cell table:style-name="ce5" table:formula="of:=[.B9]+1" office:value-type="float" office:value="4" calcext:value-type="float">
       <text:p>4</text:p>
@@ -1008,7 +1029,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="16371"/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
+    <table:table-row table:style-name="ro3">
      <table:table-cell/>
      <table:table-cell table:style-name="ce5" table:formula="of:=[.B10]+1" office:value-type="float" office:value="5" calcext:value-type="float">
       <text:p>5</text:p>
@@ -1046,7 +1067,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="16371"/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
+    <table:table-row table:style-name="ro3">
      <table:table-cell/>
      <table:table-cell table:style-name="ce5" table:formula="of:=[.B11]+1" office:value-type="float" office:value="6" calcext:value-type="float">
       <text:p>6</text:p>
@@ -1084,7 +1105,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="16371"/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
+    <table:table-row table:style-name="ro3">
      <table:table-cell/>
      <table:table-cell table:style-name="ce5" table:formula="of:=[.B12]+1" office:value-type="float" office:value="7" calcext:value-type="float">
       <text:p>7</text:p>
@@ -1124,112 +1145,73 @@
     </table:table-row>
     <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
      <table:table-cell/>
-     <table:table-cell table:style-name="ce11" table:number-columns-repeated="12"/>
+     <table:table-cell table:style-name="ce24" table:number-columns-repeated="12"/>
      <table:table-cell table:number-columns-repeated="16371"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell/>
-     <table:table-cell table:style-name="ce11" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="9" table:number-rows-spanned="1">
-      <text:p>This one-page calendar will change how you view the year by Ethan Siegel</text:p>
-     </table:table-cell>
-     <table:covered-table-cell table:number-columns-repeated="8" table:style-name="ce11"/>
-     <table:table-cell table:style-name="ce11" table:number-columns-repeated="3"/>
-     <table:table-cell table:number-columns-repeated="16371"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
-     <table:table-cell/>
-     <table:table-cell table:style-name="ce11" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="9" table:number-rows-spanned="1"><text:p><text:a xlink:href="https://medium.com/starts-with-a-bang/this-one-page-calendar-will-change-how-you-view-the-year-b8ecad85eebd" xlink:type="simple">https://medium.com/starts-with-a-bang/this-one-page-calendar-will-change-how-you-view-the-year-b8ecad85eebd</text:a></text:p>
-     </table:table-cell>
-     <table:covered-table-cell table:number-columns-repeated="8" table:style-name="ce11"/>
-     <table:table-cell table:style-name="ce11" table:number-columns-repeated="3"/>
-     <table:table-cell table:number-columns-repeated="16371"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
-     <table:table-cell/>
-     <table:table-cell table:style-name="ce11" table:number-columns-repeated="12"/>
-     <table:table-cell table:number-columns-repeated="16371"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
-     <table:table-cell/>
-     <table:table-cell table:style-name="ce11" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="9" table:number-rows-spanned="1">
-      <text:p>CalendarYear Calc/Excel spreadsheet by Kevin Wu</text:p>
-     </table:table-cell>
-     <table:covered-table-cell table:number-columns-repeated="8" table:style-name="ce11"/>
-     <table:table-cell table:style-name="ce11" table:number-columns-repeated="3"/>
-     <table:table-cell table:number-columns-repeated="16371"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="16384"/>
     </table:table-row>
     <table:table-row table:style-name="ro4">
      <table:table-cell/>
-     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="5" table:number-rows-spanned="1">
-      <text:p>The 3-Clause BSD License</text:p>
+     <table:table-cell table:style-name="ce24" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="9" table:number-rows-spanned="1">
+      <text:p>This one-page calendar will change how you view the year by Ethan Siegel</text:p>
      </table:table-cell>
-     <table:covered-table-cell table:number-columns-repeated="4"/>
-     <table:table-cell table:number-columns-repeated="16378"/>
+     <table:covered-table-cell table:number-columns-repeated="8" table:style-name="ce24"/>
+     <table:table-cell table:style-name="ce24" table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="16371"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce24" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="9" table:number-rows-spanned="1"><text:p><text:a xlink:href="https://medium.com/starts-with-a-bang/this-one-page-calendar-will-change-how-you-view-the-year-b8ecad85eebd" xlink:type="simple">https://medium.com/starts-with-a-bang/this-one-page-calendar-will-change-how-you-view-the-year-b8ecad85eebd</text:a></text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="8" table:style-name="ce24"/>
+     <table:table-cell table:style-name="ce24" table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="16371"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce24" table:number-columns-repeated="12"/>
+     <table:table-cell table:number-columns-repeated="16371"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce24" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="9" table:number-rows-spanned="1">
+      <text:p>CalendarYear Calc/Excel spreadsheet by Kevin Wu</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="8" table:style-name="ce24"/>
+     <table:table-cell table:style-name="ce24" table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="16371"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="16384"/>
     </table:table-row>
     <table:table-row table:style-name="ro5">
-     <table:table-cell table:style-name="ce1"/>
-     <table:table-cell table:style-name="ce24" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="5" table:number-rows-spanned="1">
-      <text:p>Copyright © 2023 Kevin Wu</text:p>
-     </table:table-cell>
-     <table:covered-table-cell table:number-columns-repeated="4" table:style-name="ce1"/>
-     <table:table-cell table:style-name="ce1" table:number-columns-repeated="16378"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro6">
-     <table:table-cell table:style-name="ce1"/>
-     <table:table-cell table:style-name="ce24" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="5" table:number-rows-spanned="1">
-      <text:p>Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:</text:p>
-     </table:table-cell>
-     <table:covered-table-cell table:number-columns-repeated="4" table:style-name="ce1"/>
-     <table:table-cell table:style-name="ce1" table:number-columns-repeated="16378"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro7">
-     <table:table-cell table:style-name="ce1"/>
-     <table:table-cell table:style-name="ce24" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="5" table:number-rows-spanned="1">
-      <text:p>1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.</text:p>
-     </table:table-cell>
-     <table:covered-table-cell table:number-columns-repeated="4" table:style-name="ce1"/>
-     <table:table-cell table:style-name="ce1" table:number-columns-repeated="16378"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro8">
-     <table:table-cell table:style-name="ce1"/>
-     <table:table-cell table:style-name="ce24" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="5" table:number-rows-spanned="1">
-      <text:p>2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.</text:p>
-     </table:table-cell>
-     <table:covered-table-cell table:number-columns-repeated="4" table:style-name="ce1"/>
-     <table:table-cell table:style-name="ce1" table:number-columns-repeated="16378"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro8">
      <table:table-cell/>
-     <table:table-cell table:style-name="ce24" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="5" table:number-rows-spanned="1">
-      <text:p>3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.</text:p>
+     <table:table-cell table:style-name="ce12" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="8" table:number-rows-spanned="1"><text:p>The 3-Clause BSD License</text:p><text:p/><text:p><text:span text:style-name="T1">Copyright © 2023 Kevin Wu</text:span></text:p><text:p><text:span text:style-name="T1">All rights reserved.</text:span></text:p><text:p/><text:p><text:span text:style-name="T1">Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:</text:span></text:p><text:p/><text:p><text:span text:style-name="T1">1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.</text:span></text:p><text:p/><text:p><text:span text:style-name="T1">2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.</text:span></text:p><text:p/><text:p><text:span text:style-name="T1">3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.</text:span></text:p><text:p/><text:p><text:span text:style-name="T1">THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&quot; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</text:span></text:p>
      </table:table-cell>
-     <table:covered-table-cell table:number-columns-repeated="4" table:style-name="ce1"/>
-     <table:table-cell table:number-columns-repeated="16378"/>
+     <table:covered-table-cell table:number-columns-repeated="7"/>
+     <table:table-cell table:number-columns-repeated="16375"/>
     </table:table-row>
-    <table:table-row table:style-name="ro9">
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="4">
+     <table:table-cell table:style-name="ce1"/>
+     <table:table-cell table:style-name="ce17"/>
+     <table:table-cell table:style-name="ce1" table:number-columns-repeated="16382"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
      <table:table-cell/>
-     <table:table-cell table:style-name="ce24" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="5" table:number-rows-spanned="1">
-      <text:p>THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&quot; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</text:p>
-     </table:table-cell>
-     <table:covered-table-cell table:number-columns-repeated="4" table:style-name="ce1"/>
+     <table:table-cell table:style-name="ce17"/>
+     <table:table-cell table:style-name="ce1" table:number-columns-repeated="4"/>
      <table:table-cell table:number-columns-repeated="16378"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="16384"/>
     </table:table-row>
-    <table:table-row table:style-name="ro10" table:number-rows-repeated="1048547">
+    <table:table-row table:style-name="ro7" table:number-rows-repeated="1048547">
      <table:table-cell table:number-columns-repeated="16384"/>
     </table:table-row>
-    <table:table-row table:style-name="ro10">
+    <table:table-row table:style-name="ro7">
      <table:table-cell table:number-columns-repeated="16384"/>
     </table:table-row>
    </table:table>
    <table:table table:name="Helper" table:style-name="ta2" table:protected="true">
     <loext:table-protection loext:select-protected-cells="true" loext:select-unprotected-cells="true" loext:insert-columns="true" loext:insert-rows="true" loext:delete-columns="true" loext:delete-rows="true"/>
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co5" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co6" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
@@ -1239,29 +1221,29 @@
     <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co11" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co4" table:number-columns-repeated="16376" table:default-cell-style-name="Default"/>
-    <table:table-row table:style-name="ro11">
-     <table:table-cell table:style-name="ce36" office:value-type="string" calcext:value-type="string">
+    <table:table-row table:style-name="ro6">
+     <table:table-cell table:style-name="ce38" office:value-type="string" calcext:value-type="string">
       <text:p>Regular Year Months</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce36" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce38" office:value-type="string" calcext:value-type="string">
       <text:p>Leap Year Months</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce36" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce38" office:value-type="string" calcext:value-type="string">
       <text:p>View Year</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce36" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce38" office:value-type="string" calcext:value-type="string">
       <text:p>Is the view year <text:s/>a leap year?</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce36" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce38" office:value-type="string" calcext:value-type="string">
       <text:p>Previous Year</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce36" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce38" office:value-type="string" calcext:value-type="string">
       <text:p>Day of the week of January 1</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce36" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce38" office:value-type="string" calcext:value-type="string">
       <text:p>Upper Left Column </text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce36" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce38" office:value-type="string" calcext:value-type="string">
       <text:p>Upper Left Row </text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="16376"/>
@@ -1270,22 +1252,22 @@
      <table:table-cell table:number-columns-repeated="2" table:style-name="ce39" office:value-type="string" calcext:value-type="string">
       <text:p>•</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce40" table:formula="of:=IF(InputYear&lt;&gt;0;InputYear;CurrentYear)" office:value-type="float" office:value="2023" calcext:value-type="float">
+     <table:table-cell table:style-name="ce41" table:formula="of:=IF(InputYear&lt;&gt;0;InputYear;CurrentYear)" office:value-type="float" office:value="2023" calcext:value-type="float">
       <text:p>2023</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce41" table:formula="of:=IF(MOD(ViewYear;400)=0;1;IF(AND(MOD(ViewYear;4)=0;MOD(ViewYear;100)&lt;&gt;0);1;0))" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:style-name="ce42" table:formula="of:=IF(MOD(ViewYear;400)=0;1;IF(AND(MOD(ViewYear;4)=0;MOD(ViewYear;100)&lt;&gt;0);1;0))" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce41" table:formula="of:=ViewYear-1" office:value-type="float" office:value="2022" calcext:value-type="float">
+     <table:table-cell table:style-name="ce42" table:formula="of:=ViewYear-1" office:value-type="float" office:value="2022" calcext:value-type="float">
       <text:p>2022</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce42" table:formula="of:=MOD(PrevYear+QUOTIENT(PrevYear;4)-QUOTIENT(PrevYear;100)+QUOTIENT(PrevYear;400)+1;7)" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:style-name="ce44" table:formula="of:=MOD(PrevYear+QUOTIENT(PrevYear;4)-QUOTIENT(PrevYear;100)+QUOTIENT(PrevYear;400)+1;7)" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce40" table:formula="of:=COLUMN([$Calendar.G2])" office:value-type="float" office:value="7" calcext:value-type="float">
+     <table:table-cell table:style-name="ce41" table:formula="of:=COLUMN([$Calendar.G2])" office:value-type="float" office:value="7" calcext:value-type="float">
       <text:p>7</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce40" table:formula="of:=ROW([$Calendar.G2])" office:value-type="float" office:value="2" calcext:value-type="float">
+     <table:table-cell table:style-name="ce41" table:formula="of:=ROW([$Calendar.G2])" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="16376"/>
@@ -1295,7 +1277,7 @@
       <text:p>•</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:style-name="ce44"/>
+     <table:table-cell table:style-name="ce51"/>
      <table:table-cell table:number-columns-repeated="16378"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -1323,7 +1305,7 @@
      <table:table-cell table:number-columns-repeated="16382"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="2" table:style-name="ce19" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2" table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>JAN|31</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="16382"/>
@@ -1341,10 +1323,10 @@
      <table:table-cell table:number-columns-repeated="16382"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce19" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>FEB|28; MAR|31</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce19" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>FEB|29</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="16382"/>
@@ -1353,7 +1335,7 @@
      <table:table-cell table:style-name="ce39" office:value-type="string" calcext:value-type="string">
       <text:p>•</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce19" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>MAR|31</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="16382"/>
@@ -1365,7 +1347,7 @@
      <table:table-cell table:number-columns-repeated="16382"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce19" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>APR|30</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce39" office:value-type="string" calcext:value-type="string">
@@ -1377,13 +1359,13 @@
      <table:table-cell table:style-name="ce39" office:value-type="string" calcext:value-type="string">
       <text:p>•</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce19" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>APR|30</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="16382"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce19" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>MAY|31</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce39" office:value-type="string" calcext:value-type="string">
@@ -1395,7 +1377,7 @@
      <table:table-cell table:style-name="ce39" office:value-type="string" calcext:value-type="string">
       <text:p>•</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce19" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>MAY|31</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="16382"/>
@@ -1407,7 +1389,7 @@
      <table:table-cell table:number-columns-repeated="16382"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce19" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>JUN|30</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce39" office:value-type="string" calcext:value-type="string">
@@ -1419,13 +1401,13 @@
      <table:table-cell table:style-name="ce39" office:value-type="string" calcext:value-type="string">
       <text:p>•</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce19" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>JUN|30</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="16382"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce19" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>JUL|31</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce39" office:value-type="string" calcext:value-type="string">
@@ -1437,7 +1419,7 @@
      <table:table-cell table:style-name="ce39" office:value-type="string" calcext:value-type="string">
       <text:p>•</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce19" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>JUL|31</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="16382"/>
@@ -1449,7 +1431,7 @@
      <table:table-cell table:number-columns-repeated="16382"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce19" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>AUG|31</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce39" office:value-type="string" calcext:value-type="string">
@@ -1461,7 +1443,7 @@
      <table:table-cell table:style-name="ce39" office:value-type="string" calcext:value-type="string">
       <text:p>•</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce19" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>AUG|31</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="16382"/>
@@ -1473,7 +1455,7 @@
      <table:table-cell table:number-columns-repeated="16382"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce19" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>SEP|30</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce39" office:value-type="string" calcext:value-type="string">
@@ -1485,13 +1467,13 @@
      <table:table-cell table:style-name="ce39" office:value-type="string" calcext:value-type="string">
       <text:p>•</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce19" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>SEP|30</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="16382"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce19" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>OCT|31</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce39" office:value-type="string" calcext:value-type="string">
@@ -1503,7 +1485,7 @@
      <table:table-cell table:style-name="ce39" office:value-type="string" calcext:value-type="string">
       <text:p>•</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce19" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>OCT|31</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="16382"/>
@@ -1515,7 +1497,7 @@
      <table:table-cell table:number-columns-repeated="16382"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce19" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>NOV|30</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce39" office:value-type="string" calcext:value-type="string">
@@ -1527,13 +1509,13 @@
      <table:table-cell table:style-name="ce39" office:value-type="string" calcext:value-type="string">
       <text:p>•</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce19" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>NOV|30</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="16382"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce19" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>DEC|31</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce39" office:value-type="string" calcext:value-type="string">
@@ -1545,7 +1527,7 @@
      <table:table-cell table:style-name="ce39" office:value-type="string" calcext:value-type="string">
       <text:p>•</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce19" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
       <text:p>DEC|31</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="16382"/>
